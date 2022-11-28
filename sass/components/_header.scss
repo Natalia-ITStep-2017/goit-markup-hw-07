@@ -1,0 +1,14 @@
+.header {
+  border-bottom: 1px solid var(--header-border);
+}
+
+.header .container {
+  display: flex;
+}
+
+.nav,
+.nav__site,
+.contact {
+  display: flex;
+  align-items: center;
+}
